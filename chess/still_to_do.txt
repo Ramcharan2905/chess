@@ -1,0 +1,5 @@
+options during promotion
+
+castling
+
+stale mate
