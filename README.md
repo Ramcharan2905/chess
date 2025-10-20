@@ -57,7 +57,7 @@ Based on the project's `still_to_do.txt` file, the following features are planne
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Ramcharan2905/chess
     cd chess-frontend
     ```
 
